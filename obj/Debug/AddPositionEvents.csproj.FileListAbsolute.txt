@@ -1,0 +1,26 @@
+C:\Users\andrew.yudaichev\source\repos\AddPositionEvents\AddPositionEvents\obj\Debug\AddPositionEvents.csprojAssemblyReference.cache
+C:\Users\andrew.yudaichev\source\repos\AddPositionEvents\AddPositionEvents\obj\Debug\AddPositionEvents.csproj.CoreCompileInputs.cache
+C:\Users\andrew.yudaichev\source\repos\AddPositionEvents\AddPositionEvents\bin\Debug\AddPositionEvents.exe.config
+C:\Users\andrew.yudaichev\source\repos\AddPositionEvents\AddPositionEvents\bin\Debug\AddPositionEvents.exe
+C:\Users\andrew.yudaichev\source\repos\AddPositionEvents\AddPositionEvents\bin\Debug\AddPositionEvents.pdb
+C:\Users\andrew.yudaichev\source\repos\AddPositionEvents\AddPositionEvents\bin\Debug\Dapper.dll
+C:\Users\andrew.yudaichev\source\repos\AddPositionEvents\AddPositionEvents\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\andrew.yudaichev\source\repos\AddPositionEvents\AddPositionEvents\bin\Debug\System.Security.AccessControl.dll
+C:\Users\andrew.yudaichev\source\repos\AddPositionEvents\AddPositionEvents\bin\Debug\System.Security.Permissions.dll
+C:\Users\andrew.yudaichev\source\repos\AddPositionEvents\AddPositionEvents\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\andrew.yudaichev\source\repos\AddPositionEvents\AddPositionEvents\bin\Debug\Dapper.xml
+C:\Users\andrew.yudaichev\source\repos\AddPositionEvents\AddPositionEvents\obj\Debug\AddPositionEvents.csproj.CopyComplete
+C:\Users\andrew.yudaichev\source\repos\AddPositionEvents\AddPositionEvents\obj\Debug\AddPositionEvents.exe
+C:\Users\andrew.yudaichev\source\repos\AddPositionEvents\AddPositionEvents\obj\Debug\AddPositionEvents.pdb
+D:\3. Repositories\PositionProject\obj\Debug\AddPositionEvents.csprojResolveAssemblyReference.cache
+D:\3. Repositories\PositionProject\obj\Debug\AddPositionEvents.csproj.CoreCompileInputs.cache
+D:\3. Repositories\PositionProject\obj\Debug\AddPositionEvents.exe
+D:\3. Repositories\PositionProject\obj\Debug\AddPositionEvents.pdb
+D:\3. Repositories\PositionProject\bin\Debug\AddPositionEvents.exe.config
+D:\3. Repositories\PositionProject\bin\Debug\AddPositionEvents.exe
+D:\3. Repositories\PositionProject\bin\Debug\AddPositionEvents.pdb
+D:\3. Repositories\PositionProject\bin\Debug\Dapper.xml
+D:\3. Repositories\PositionProject\obj\Debug\AddPositionEvents.csproj.CopyComplete
+D:\3. Repositories\PositionProject\bin\Debug\Newtonsoft.Json.dll
+D:\3. Repositories\PositionProject\bin\Debug\Newtonsoft.Json.pdb
+D:\3. Repositories\PositionProject\bin\Debug\Newtonsoft.Json.xml
